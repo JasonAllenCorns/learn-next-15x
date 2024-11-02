@@ -1,1 +1,1 @@
-# learn-next-15x
+# NextJS Dashboard
